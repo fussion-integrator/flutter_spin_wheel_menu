@@ -28,7 +28,6 @@ class MyHomePage extends StatelessWidget {
           perspective: 0.01,
           backgroundColor: Colors.blue,
           onTap: (index) {
-            print('Card clicked: $index');
             // Add your logic here
           },
           cardTitles: ['Item 1', 'Item 2', 'Item 3'],
