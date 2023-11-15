@@ -1,8 +1,8 @@
 # Flutter Spin Wheel Menu
 
-[![pub package](https://img.shields.io/pub/v/flutter_zoom_drawer.svg)](https://pub.dev/packages/flutter_zoom_drawer) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![pub package](https://img.shields.io/pub/v/flutter_zoom_drawer.svg)](https://pub.dev/packages/flutter_spin_wheel_menu) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A Flutter package with custom implementation of the Side Menu (Drawer)
+A Flutter package with custom implementation of the Card / Menu spinning like a wheel
 
 ## 🌟 Getting Started
 
@@ -13,15 +13,7 @@ dependencies:
   flutter_spin_wheel_menu: "<latest_release>"
 ```
 
-## 💪 Features
-
-- Simple sliding drawer
-- Sliding drawer with shadows
-- Sliding drawer with rotation
-- Sliding drawer with rotation and shadows
-- Support for both LTR & RTL
-
-## 📌 Simple Example (Thanks to @JesusHdezWaterloo)
+## 📌 Simple Example (Thanks to @ChidiebereEdeh)
 
 ```dart
 import 'package:flutter/material.dart';
