@@ -96,4 +96,4 @@ If you would like to contribute to the plugin (e.g. by improving the documentati
 
 ## Credits
 
-Credits goes to [FussionTech](https://github.com/fussion-integrator) as most of this package comes from his implementation.
+Credits goes to [ChidiebereEdeh](https://github.com/fussion-integrator) as most of this package comes from his implementation.
