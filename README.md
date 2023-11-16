@@ -81,9 +81,9 @@ class MyHomePage extends StatelessWidget {
 
 ## Screens
 
-![Example app Image](https://drive.google.com/file/d/1JYM_rl9qmK_cuHMb8-ZKZy_Bm2egUjSm/view?usp=sharing)
+![Example app Image](https://drive.google.com/file/d/1JYM_rl9qmK_cuHMb8-ZKZy_Bm2egUjSm/view)
 
-![Example app Demo](https://drive.google.com/file/d/1JZZJm-0KnGwxNWMdcm-gAn_irP_7piDQ/view?usp=sharing)
+![Example app Demo](https://drive.google.com/file/d/1JZZJm-0KnGwxNWMdcm-gAn_irP_7piDQ/view)
 
 
 ## Issues
